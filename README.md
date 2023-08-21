@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/stages-carousel-app.git
+git clone [https://github.com/yourusername/stages-carousel-app.git](https://github.com/mykaelalexandre/ant-design-carousel)
 Navigate to the project directory:
 
 bash
